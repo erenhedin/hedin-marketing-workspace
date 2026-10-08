@@ -1,9 +1,9 @@
-# Hedin Marketing Workspace — preview
+# Marknadsföring för Hedin Automotive – förhandsversion
 
-Static build of the Marketing Workspace prototype, published with GitHub Pages.
+Statisk version av marknadsföringsverktyget, publicerad med GitHub Pages.
 
-Open it at https://erenhedin.github.io/hedin-marketing-workspace/
+Öppna den på https://erenhedin.github.io/hedin-marketing-workspace/
 
-Everything runs in your browser: contacts, campaigns and settings are saved in this browser only and are never uploaded. Nothing is sent by email. Use fictional data.
+Allt körs i din webbläsare: kontakter, kampanjer och inställningar sparas bara i den här webbläsaren och laddas aldrig upp. Inga mejl skickas. Använd fiktiva uppgifter.
 
-To start over, open **Help & what’s next → Clear this browser’s workspace**.
+Vill du börja om? Öppna **Hjälp och nästa steg → Rensa arbetsytan i den här webbläsaren**.
